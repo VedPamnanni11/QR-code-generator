@@ -9,9 +9,12 @@ This project generates a QR code from any text or website link using Python.
 
 ## How to run it
 1. Make sure you have Python installed.
-2. Install the required library:
+2. Install the required librarys:
    ```bash
    pip install qrcode
+   ```
+   ```bash
+   pip install pillow
    ```
 3. Run the script:
    ```bash
